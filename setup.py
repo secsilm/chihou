@@ -9,7 +9,7 @@ setuptools.setup(
     author="Alan Lee",
     author_email="secsilm@outlook.com",
     description="A package for notifying you by email when something is done",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/secsilm/kuaidier",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3.6",
